@@ -14,7 +14,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://github.com/gxr761/poc_storage/releases/download/test-1/Shared.xcframework.zip",
-         checksum:"d780f051f48c2102c85fa8ef257ddf0c3caa6e9ca8800fa2218e2bc93c2c1dec")
+         url: "https://github.com/gxr761/poc_storage/releases/download/test2/Shared.xcframework.zip",
+         checksum:"4706af42c9e020a6d4cdd167e20171e5ace2a3969bf461ecab7987f90a1cff81")
    ]
 )
